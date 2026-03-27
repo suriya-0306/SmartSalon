@@ -1,3 +1,4 @@
+updateprofile.php → backend/updateprofile.php
 <?php
 // SHOW ERRORS (dev only)
 ini_set('display_errors', 1);
