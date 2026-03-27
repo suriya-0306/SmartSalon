@@ -1,3 +1,4 @@
+signup.php → backend/signup.php
 <?php
 
 ini_set('display_errors', 1);
