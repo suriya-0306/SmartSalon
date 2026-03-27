@@ -1,3 +1,4 @@
+update_appointment_status.php → backend/update_appointment_status.php
 <?php
 header("Content-Type: application/json");
 require_once "config.php";
