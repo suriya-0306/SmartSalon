@@ -1,3 +1,4 @@
+config.php  →  backend/config.php
 <?php
 $host = "localhost";
 $user = "root";          // default XAMPP user
