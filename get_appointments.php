@@ -1,3 +1,4 @@
+get_appointments.php → backend/get_appointments.php
 <?php
 // SHOW ERRORS (DEV ONLY)
 ini_set('display_errors', 1);
